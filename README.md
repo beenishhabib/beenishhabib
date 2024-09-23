@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/She/They
 - ⚡ Fun fact: I love to write stories fiction/non-fiction!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
