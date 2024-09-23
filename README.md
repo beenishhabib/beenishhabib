@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with advanced ML techniques.
 - 💬 Ask me about anything tech-related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dr-beenish-habib-a6344028a/)
-- 😄 Pronouns: He/She/They
 - ⚡ Fun fact: I love to write stories fiction/non-fiction!
 
 
