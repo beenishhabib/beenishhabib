@@ -1,6 +1,6 @@
-# Hi, I'm [Dr.Beenish Habib]! 👋
+Hi, I'm Dr.Beenish Habib 👋
 
-### I'm passionate about AI and Machine Learning. 🚀
+I'm passionate about AI and Machine Learning. 🚀
 
 - 🔭 I’m currently working on building robust machine learning models.
 - 🌱 I’m currently learning about deep learning and neural networks.
